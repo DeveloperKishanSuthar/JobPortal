@@ -1,0 +1,24 @@
+-----------Exception Details on  9/5/2024 8:51:10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 9/5/2024 8:51:10 PM
+
+Error Line No : line 76
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Could not find stored procedure 'SP_JobSeekerLogin'.
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
